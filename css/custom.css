@@ -1,0 +1,170 @@
+@media only screen and (max-width: 600px) {
+    #__mcenew {
+        width: 100%;
+    }
+}
+
+/** Banner Costa Rica **/
+#banner-cr {
+ width:100%;
+ min-height:300px;
+ max-width:100%;
+ height:auto;
+ background-position:center;
+ background-size:cover;
+ background-image: url("/media/rz0nate1/rbi_globe.jpg");
+}
+
+@media (max-width:768px) {
+ #banner-cr {
+  background-image:url("/media/rz0nate1/rbi_globe.jpg");
+ }
+}
+@media (max-width:992px) {
+ #banner-cr {
+  background-image:url("/media/rz0nate1/rbi_globe.jpg");
+ }
+}
+#banner-cr .banner-content-cr {
+ width:100%;
+ min-height:300px;
+ padding:80px 0;
+ color:#fff
+}
+@media (max-width:768px) {
+ #banner-cr .banner-content-cr {
+  padding:30px
+ }
+}
+@media (min-width:480px) {
+ #banner-cr .banner-content-cr h1 {
+  font-size:56px;
+  margin-bottom:10px
+ }
+}
+@media (max-width:480px) {
+ #banner-cr .banner-content-cr h1 {
+  font-size:31px;
+  margin-bottom:10px
+ }
+}
+#banner-cr .banner-content-cr h1,
+#banner-cr .banner-content-cr h2,
+#banner-cr .banner-content-cr h3,
+#banner-cr .banner-content-cr h4,
+#banner-cr .banner-content-cr h5,
+#banner-cr .banner-content-cr p {
+ color:#fff!important;
+ text-transform:none
+}
+#banner-cr .banner-content-cr h3 {
+ text-transform:none
+}
+#banner-cr .banner-content-cr .partners {
+ display:inline;
+ padding:0 10px;
+ margin:auto
+}
+#banner-cr .banner-content-cr .staff {
+ display:inline;
+ padding:0 10px;
+ margin:auto
+}
+#banner-cr .banner-content-cr .offices {
+ display:inline;
+ padding:0 10px;
+ margin:auto
+}
+#banner-cr .banner-content-cr .countries {
+ display:inline;
+ padding:0 10px;
+ margin:auto
+}
+#banner-cr .banner-content-cr .counter {
+ font-size:1.575rem;
+ vertical-align:baseline
+}
+#banner-cr .banner-content-cr small {
+ font-size:1.575rem
+}
+@media screen and (max-width:450px) {
+ #banner-cr .banner-content-cr h1 {
+  font-size:32px!important
+ }
+ #banner-cr .banner-content-cr h3 {
+  font-size:20px!important
+ }
+ #banner-cr .banner-content-cr .offices {
+  display:inline-table!important
+ }
+ #banner-cr .banner-content-cr .countries {
+  display:inline-table!important
+ }
+ #banner-cr .banner-content-cr .counter {
+  font-size:20px!important
+ }
+ #banner-cr .banner-content-cr small {
+  font-size:20px!important
+ }
+}
+
+/**umb_name:Lead Text*/
+.leadText {
+	color: #00b3ef;
+	font-size: 16px;
+}
+
+/**umb_name:Sub Heading*/
+h4 {
+	text-transform: uppercase;
+	color: #213886;
+	font-weight: 700;
+	font-size: 16px;
+	padding: 10px 0;
+}
+
+/**umb_name:10 pt*/
+.pt10 {
+	font-size: 13px;
+}
+
+/**umb_name:11 pt*/
+.pt11 {
+	font-size: 15px;
+}
+
+/**umb_name:12 pt*/
+.pt12 {
+	font-size: 16px;
+}
+
+/**umb_name:13 pt*/
+.pt13 {
+	font-size: 17px;
+}
+
+/**umb_name:14 pt*/
+.pt14 {
+	font-size: 19px;
+}
+
+/**umb_name:15 pt*/
+.pt15 {
+	font-size: 21px;
+}
+
+/**umb_name:16 pt*/
+.pt16 {
+	font-size: 22px;
+}
+
+/**umb_name:17 pt*/
+.pt17 {
+	font-size: 23px;
+}
+
+/**umb_name:img*/
+#__mcenew {
+	width: 75%;
+	height: auto;
+}
